@@ -33,7 +33,7 @@ function addAndPrintTodos() {
  * we do it here
  */
 function mainTask1a() {
-    addAndPrintTodos();
+    addAndPrintTodos()
 }
 
 // This bit of code ensures that a main method exists! If it doesn't, then it throws an error
